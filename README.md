@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shiva Koshta</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate app and web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-koshta&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-koshta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@koshtashiva" target="blank"><img src="https://img.shields.io/twitter/follow/@koshtashiva?logo=twitter&style=for-the-badge" alt="@koshtashiva" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **kingofkings8435@gmail.com**
 
