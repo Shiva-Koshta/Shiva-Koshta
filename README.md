@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Koshta</h1>
 <h3 align="center">A passionate app and web developer from India</h3>
+<h3 align="center">Working at <b>Pattern India</b> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-koshta&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-koshta" /> </p>
 
